@@ -3925,4 +3925,4 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 
 #EXTINF:-1 tvg-id="POPMUSIK.id" group-title="DENS TV",POP MUSIK HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://play.accolamedia.id/accola/pop.stream/playlist.m3u8
+https://play.accolamedia.id/accola/popmusik.stream/playlist.m3u8
