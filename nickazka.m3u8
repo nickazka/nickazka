@@ -3367,48 +3367,32 @@ http://pipe.ra1n.lol/at-x/index.m3u8
 ##################LOKAL################
 
 
-#EXTINF:-1 group-title="LOKAL", PALTV PALEMBANG
-http://103.76.24.206:8080/memfs/47f10ad7-245e-41fc-8f18-b4b534879943_output_0.m3u8?session=ByDW3ESRQrQUvXXg5qK5tz
-#EXTINF:-1 group-title="LOKAL", SINGKAWANG TV
-https://63b2dc7196c38.streamlock.net:1937/singkawang/myStream/chunklist_w1523494232.m3u8
-#EXTINF:-1 group-title="LOKAL", JTV JAWA TIMUR
-https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/chunklist_w903129659.m3u8
-#EXTINF:-1 group-title="LOKAL", PADANG TELEVISI
-https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/chunklist_w529908792.m3u8
-#EXTINF:-1 group-title="LOKAL", AREK TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
-#EXTINF:-1 group-title="LOKAL", SAMBAS TV
-https://63b2dc7196c38.streamlock.net:1937/ch21/myStream/chunklist_w1920081815.m3u8
-#EXTINF:-1 group-title="LOKAL", SAKTI TV HD
-https://v5.siar.us/saktitv/live/chunks.m3u8
-#EXTINF:-1 group-title="LOKAL", PONTV HD
-https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w169139468.m3u8
-#EXTINF:-1 group-title="LOKAL", ADITV HD
-https://v2.siar.us/aditv/livestream/chunks.m3u8
-#EXTINF:-1 group-title="LOKAL", TEGAR TV HD
-http://wms.klikhost.com/tegarjogja/tegarjogja/chunklist_w1446480428.m3u8
-#EXTINF:-1 group-title="LOKAL", tatv solo
-https://nin.siar.us/tatv/live.sdp/chunks.m3u8
-#EXTINF:-1 group-title="LOKAL", banjar tv banjarmasin
-https://v2.siar.us/banjartv/live/chunks.m3u8
-#EXTINF:-1 group-title="LOKAL", ELSHINTA TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
-#EXTINF:-1 group-title="LOKAL", PKTV BONTANG
-https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
-#EXTINF:-1 group-title="LOKAL", PRIMATV 
-https://primatv.siar.us/primatv/live/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL", CTV PATI HD
-https://ythls.armelin.one/channel/UCTGTU0dRgLRgdcDEkJSZz2w.m3u8
-#EXTINF:-1 group-title="LOKAL", FICOM CHANNEL HD
-https://v3.siar.us/ficomchannel/live/chunks.m3u8
-#EXTINF:-1 group-title="LOKAL", JPM TV HD
-https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/chunklist_w1632369399.m3u8
-#EXTINF:-1 group-title="LOKAL", AKTV
-https://e.siar.us/live/aktv.m3u8
-#EXTINF-: group-title="LOKAL", e channel hd
-https://e.siar.us/live/echannel.m3u8
-#EXTINF-: group-title="LOKAL", surabaya tv hd
-https://e.siar.us/live/surabayatv.m3u8
+#EXTINF:-1 tvg-id="batamtv.id" group-title="Local Channels",Batam TV
+https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/chunklist_w1096211175.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/natuna.png" group-title="Local Channels",Natuna TV
+https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/chunklist_w1179708856.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/simpang5.png" group-title="Local Channels",Simpang 5 TV Semarang
+https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/chunklist_w1782045087.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/pontianak.png" group-title="Local Channels",PON TV Pontianak
+https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/8a/-PadjadjaranTVLogo_Baru.jpg" group-title="Local Channels",PJTV Bandung
+https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/52/Logo_AFB_TV.png/640px-Logo_AFB_TV.png",AFB TV Kupang
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch54.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Jayatv_kedua.png/revision/latest?cb=20160415070839",Jaya TV Papua
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch52.m3u8
 
 
 
