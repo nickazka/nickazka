@@ -217,7 +217,9 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/balaikota.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/13/Bandungtv_2011.png/180px-Bandungtv_2011.png" group-title="NATIONAL TV",Balai Kota Bandung (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/balaikotabandung.m3u8
-
+#EXTINF:-1 tvg-logo="https://iili.io/JbtCoiu.png" group-title="NATIONAL TV",BN Channel
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch112.m3u8
 
 ########################## NEWS ##########################
 
