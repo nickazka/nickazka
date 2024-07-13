@@ -3398,7 +3398,8 @@ https://flv.intechmedia.net/live/ch54.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch52.m3u8
 
-
+#EXTINF:-1 group-title="Local Channels", ubon TV HD
+https://5e396e0211d7a.streamlock.net/ubontv/live/playlist.m3u8
 
 #############SONYLIV##########
 
