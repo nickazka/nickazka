@@ -2585,16 +2585,16 @@ EXTINF:-1 group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia
 http://38.47.189.134:1234/stream/astro/astroarena2/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
 
 #EXTINF:-1 group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml", PREMIER HD
-http://38.47.189.134:1234/stream/astro/astropremier/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea262229
+http://38.47.189.134:1234/stream/astro/astropremier/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
 
-#EXTINF:-1 group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml", QJ HD
+#EXTINF:-1 group-title="Test" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml", QJ HD NOT STABLE
 http://38.47.189.134:1234/stream/astro/astroqj/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea262229
 
 #EXTINF:-1 group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml", TV9 HD
-http://38.47.189.134:1234/stream/astro/tv9/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea262229
+http://38.47.189.134:1234/stream/astro/tv9/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
 
-#EXTINF:-1 group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml", TV3HD (A) 
-http://38.47.189.134:1234/stream/astro/tv3/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea262229
+#EXTINF:-1 group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml", TV3 HD (A) 
+http://38.47.189.134:1234/stream/astro/tv3/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
 
 
 
