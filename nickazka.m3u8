@@ -1182,7 +1182,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/galaxy.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:0 group-title="MOVIES" tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png",Rock Action
-https://apple-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+https://melon-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="MOVIES",Rock Action (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
@@ -1315,9 +1315,13 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&exten
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png",drama
-https://melon-live-cdn.mncnow.id/live/eds/Drama-HD/sa_dash_vmx/Drama-HD.mpd
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png", galaxy premium (backup) 
+https://melon-live-cdn.mncnow.id/live/eds/GalaxyPremium/sa_dash_vmx/GalaxyPremium.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png", galaxy  (backup) 
+https://melon-live-cdn.mncnow.id/live/eds/Galaxy/sa_dash_vmx/Galaxy.mpd
 ##############################################################
 
 #EXTINF:-1 tvg-name="ID: Etv Bioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIES",ID: Etv Bioskop (K*)
