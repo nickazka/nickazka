@@ -2608,16 +2608,15 @@ http://38.47.189.134:1234/stream/astro/showcase/master.m3u8?u=hometv&p=23661ebec
 http://38.47.189.134:1234/stream/astro/BOO/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
 
 #EXTINF:-1 group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml", AEC HD
-https://hls.watchtv.uk/AEC/playlist-39.m3u8a?t=1721666427&token=99aa5d8ae3e08ab3827b42f1f27b7c9f
+https://hls.watchtv.uk/AEC/playlist-39.m3u8a?t=e3fc181f52685215df17582dd4ec9fa1
 
 #EXTINF:-1 group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml, HUA HEE DAI HD
-https://hls.watchtv.uk/Huahee_backup/playlist-39.m3u8a?t=1721666427&token=99aa5d8ae3e08ab3827b42f1f27b7c9f
+https://hls.watchtv.uk/Huahee_backup/playlist-39.m3u8a?t=e3fc181f52685215df17582dd4ec9fa1
 
 #EXTINF:-1 group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml, Prima HD
-https://hls.watchtv.uk/Prima_backup/playlist-39.m3u8a?t=1721666427&token=99aa5d8ae3e08ab3827b42f1f27b7c9f
-
+https://hls.watchtv.uk/Prima_backup/playlist-39.m3u8a?t=e3fc181f52685215df17582dd4ec9fa1
 #EXTINF:-1 group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml, QUANJIA HD
-https://hls.watchtv.uk/Quanjia/playlist-39.m3u8a?t=1721666427&token=99aa5d8ae3e08ab3827b42f1f27b7c9f
+https://hls.watchtv.uk/Quanjia/playlist-39.m3u8a?t=e3fc181f52685215df17582dd4ec9fa1
 
 ## MeWatch SG ##
 
