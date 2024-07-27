@@ -1,0 +1,67 @@
+#EXTINF:-1 group-title="Local Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/52/Logo_AFB_TV.png/640px-Logo_AFB_TV.png",AFB TV Kupang
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch54.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Jayatv_kedua.png/revision/latest?cb=20160415070839",Jaya TV Papua
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch1.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-logo="",unknown
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch11.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-logo="",unknown
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch12.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-logo="",unknown
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch110.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-logo="",BN CHANNEL
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch111.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-logo="",PAL TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch18.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-logo="",NAME UNKNOWN
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch13.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-logo="",NAME UNKNOWN
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch14.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-logo="",NAME UNKNOWN
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch19.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-logo="",NAME UNKNOWN
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch20.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-logo="",NAME UNKNOWN
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch23.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-logo="",NAME UNKNOWN
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch24.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-logo="",NAME UNKNOWN
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch25.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-logo="",NAME UNKNOWN
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch113.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-logo="",vtv HD
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch112.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-logo="", unknown HD
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch115.m3u8
