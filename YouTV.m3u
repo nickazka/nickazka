@@ -30,7 +30,7 @@ https://flv.intechmedia.net/live/ch18.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch13.m3u8
 
-#EXTINF:-1 group-title="Local Channels" tvg-logo="", BTV
+#EXTINF:-1 group-title="Local Channels" tvg-logo="", makkah
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch14.m3u8
 
@@ -38,7 +38,7 @@ https://flv.intechmedia.net/live/ch14.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch19.m3u8
 
-#EXTINF:-1 group-title="Local Channels" tvg-logo="",NAME UNKNOWN
+#EXTINF:-1 group-title="Local Channels" tvg-logo="", BTV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch20.m3u8
 
