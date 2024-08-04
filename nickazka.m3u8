@@ -2603,9 +2603,12 @@ http://38.47.189.134:1234/stream/astro/astroarena2/master.m3u8?u=hometv&p=23661e
 #EXTINF:-1 group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml", PREMIER HD
 http://38.47.189.134:1234/stream/astro/astropremier/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
 
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TV9.my" group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://e7.pngegg.com/pngimages/281/253/png-clipart-malaysia-tv9-media-prima-tv3-8tv-networking-topics-television-text-thumbnail.png",TV9 HD
+https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
 
-#EXTINF:-1 group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml", TV9 HD
-http://38.47.189.134:1234/stream/astro/tv9/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
+
 
 #EXTINF:-1 group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml", TV3 HD (A) 
 http://38.47.189.134:1234/stream/astro/tv3/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
