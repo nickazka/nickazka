@@ -3459,7 +3459,7 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="infomartion",subrek guys
-https://docs.google.com/static/spreadsheets2/client/js/579705404-waffle_js_prod_dbsource__id.js
+https://docs.google.com/static/spreadsheets2/client/js/579705404-waffle_js_prod_dbsource__id.m3u8
 
 #EXTINF:-1 group-title="infomartion",kapamilya online live
 https://ythls.armelin.one/channel/UCstEtN0pgOmCf02EdXsGChw.m3u8
@@ -3784,6 +3784,26 @@ https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2448fc561b0c4220a81f1008971d3088&key=f48eb6753f3d1774da682970c93cf260
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="998" tvg-chno="998" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956273%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=150&Height=150&ImageUrl=%27956273.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",INDOSIAR (INDIHOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://cdn09jtedge.indihometv.com/joss/133/indosiar/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV", MOJI (INDIHOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://cdn09jtedge.indihometv.com/joss/130/ochannel/index.m3u8
+
+
+
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV", SCTV (INDIHOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://cdn09jtedge.indihometv.com/joss/133/sctv/index.m3u8
+
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0328a153c2994b279ab03ab25102fc59&key=2cc69eaaa858fed24c5623654daf8d3d
