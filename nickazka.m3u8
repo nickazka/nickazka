@@ -2,6 +2,9 @@
 ########################## NATIONAL TV ##########################
 #EXTINF:-1 group-title="Test", HUA HEE DAI HD
 https://hls.watchtv.uk/Huahee_backup/playlist-39.m3u8a
+#EXTINF:-1 group-title="Test", ktv
+https://live-kg.jixie.media/live/ktv_lhd.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visionplus.id
 deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
