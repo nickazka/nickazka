@@ -41,21 +41,22 @@ http://fm1077.serv00.net/Smart.php?id=Vaanavil
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTINF:-1 tvg-logo="" group-title="Malaysia", AEC
+http://fm1077.serv00.net/Smart.php?id=Aec-49
 http://fm1077.serv00.net/Smart.php?id=Aec
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTINF:-1 tvg-logo="" group-title="Malaysia", Hua hee dai backup
+http://fm1077.serv00.net/Smart.php?id=Huaheedai-49
 http://fm1077.serv00.net/Smart.php?id=Huaheedai
-
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Vinmeen hd
+http://fm1077.serv00.net/Smart.php?id=Vinmeen-0
 http://fm1077.serv00.net/Smart.php?id=Vinmeen
-
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Vellithiraihd
+http://fm1077.serv00.net/Smart.php?id=Vellithirai-49
 http://fm1077.serv00.net/Smart.php?id=Vellithirai
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
