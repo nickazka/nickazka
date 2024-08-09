@@ -5,6 +5,53 @@ https://hls.watchtv.uk/Huahee_backup/playlist-39.m3u8a
 
 
 
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Warna
+http://fm1077.serv00.net/Smart.php?id=Warna-O
+http://fm1077.serv00.net/Smart.php?id=Warna
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Ria
+http://fm1077.serv00.net/Smart.php?id=Ria-0
+http://fm1077.serv00.net/Smart.php?id=Ria49
+http://fm1077.serv00.net/Smart.php?id=Ria_quanjia
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Prima
+http://fm1077.serv00.net/Smart.php?id=Prima49
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Ceria
+http://fm1077.serv00.net/Smart.php?id=Ceria
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Oasis
+http://fm1077.serv00.net/Smart.php?id=Oasis
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Citra
+http://fm1077.serv00.net/Smart.php?id=Citra
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Sensasi
+http://fm1077.serv00.net/Smart.php?id=Sensasi
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Aura
+http://fm1077.serv00.net/Smart.php?id=Aura
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Rania
+http://fm1077.serv00.net/Smart.php?id=Rania
+
+
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", AEC
+http://fm1077.serv00.net/Smart.php?id=Aec
+
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia", Hua hee dai backup
+http://fm1077.serv00.net/Smart.php?id=Huaheedai
+
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi 
 #EXTINF:-1 group-title="Test", ktv
