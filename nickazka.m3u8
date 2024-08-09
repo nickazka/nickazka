@@ -34,8 +34,11 @@ http://fm1077.serv00.net/Smart.php?id=Sensasi
 http://fm1077.serv00.net/Smart.php?id=Aura
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Rania
+http://fm1077.serv00.net/Smart.php?id=Rania-0
 http://fm1077.serv00.net/Smart.php?id=Rania
-
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Vaanavil
+http://fm1077.serv00.net/Smart.php?id=Vaanavil
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTINF:-1 tvg-logo="" group-title="Malaysia", AEC
